@@ -1,3 +1,15 @@
 body {
   background: #fadadd;
 }
+
+kbd {
+  background: #fff;
+
+  display: inline-block;
+  width: 50px;
+  height: 200px;
+
+  border: solid #808080;
+
+  text-align: center;
+}
