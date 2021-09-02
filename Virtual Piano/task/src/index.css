@@ -52,3 +52,30 @@ body {
   line-height: 200px;
   font-size: 1rem;
 }
+
+#e-key,
+#t-key,
+#y-key,
+#u-key {
+  left: 100%;
+}
+
+#w-key {
+  left: 18%;
+}
+
+#e-key {
+  left: 25%;
+}
+
+#t-key {
+  left: 59%;
+}
+
+#y-key {
+  left: 66%;
+}
+
+#u-key {
+  left: 73%;
+}
