@@ -41,11 +41,13 @@ body {
 }
 
 .black-keys kbd {
+  position: relative;
+
   background: #000;
   color: #fff;
 
   width: 40px;
-  height: 150px;
+  height: 130px;
 
   line-height: 200px;
   font-size: 1rem;
