@@ -2,7 +2,7 @@ body {
   background: #fadadd;
 }
 
-.piano-keys {
+.container {
   position: absolute;
 
   width: fit-content;
