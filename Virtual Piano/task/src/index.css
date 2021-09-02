@@ -35,6 +35,11 @@ body {
   border: 4px solid #808080;
 }
 
+.black-keys {
+  position: absolute;
+  top: 0;
+}
+
 .black-keys kbd {
   background: #000;
   color: #fff;
