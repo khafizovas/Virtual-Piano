@@ -2,7 +2,7 @@ body {
   background: #fadadd;
 }
 
-kbd {
+.white-keys kbd {
   background: #fff;
 
   display: inline-block;
@@ -19,7 +19,7 @@ kbd {
   margin-right: -4px;
 }
 
-.container {
+.white-keys {
   width: fit-content;
 
   position: absolute;
